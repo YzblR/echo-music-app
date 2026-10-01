@@ -1,4 +1,4 @@
-# application_2125_reyes
+# ECHO: Where Music Connects People
 
 A new Flutter project.
 
